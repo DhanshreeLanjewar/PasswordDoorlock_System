@@ -1,1 +1,2 @@
 # PasswordDoorlock_System
+This project is an Arduino-based password-protected door lock system that uses a 4x4 keypad for password input and a DC/servo motor to control the door lock. When the correct password is entered, the motor unlocks the door. It enhances home security by allowing only authorized access and include features like password change and entry attempt limits by changing required code
